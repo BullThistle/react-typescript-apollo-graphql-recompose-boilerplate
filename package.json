@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "scritps": {
+  "scripts": {
     "build": "webpack -p",
     "start": "webpack-dev-server -d --content-base ./public"
   },
